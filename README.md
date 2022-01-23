@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shrinivas Sampath
-- 👀 I’m interested in Playing with data most of the times because it gives me calmness and happiness.
+- 👀 I’m interested in playing with data most of the times because it gives me happiness.
 - 🌱 I’m currently learning Neural Networks and R - Programming.
 - 💞️ I’m looking to collaborate on Neural Network based real world problems.
 - 📫 How to reach me sm3533@g.rit.edu, srinisam139@gmail.com
