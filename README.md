@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shrinivas Sampath
-- 👀 I’m interested in playing with data most of the times because it gives me happiness.
-- 🌱 I’m currently learning Neural Networks and R - Programming.
+- 👀 I’m interested in playing with data most of the times because it's fun.
+- 🌱 I’m currently learning Natural Language Understanding and Computer Vision.
 - 💞️ I’m looking to collaborate on real world NLP and Computer Science problems.
 - 📫 Reach me at sm3533@g.rit.edu, srinisam139@gmail.com
 
