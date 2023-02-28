@@ -1,8 +1,8 @@
 - 👋 Hi, I’m SHRINIVAS SAMPATH
-- 🌱 I’m currently pursuing Masters at RIT, NY.
+- 🌱 I’m currently pursuing M.S in Data Science at RIT, NY.
 - 👀 I’m interested in playing with DATA most of the times because it's ENGAGING and EDUCATING (help to learn a lot about other domains).
 - 💞️ I love working in Game Analytics, Statistics, NLP and Machine Learning.
-- 📫 Reach me at sm3533@g.rit.edu, srinisam139@gmail.com.
+- 📫 Reach me at sm3533@rit.edu, srinisam139@gmail.com.
 
 
   **YOU CAME TO MY PROFILE, TAKE A LOOK AT MY WORK AS WELL!**
